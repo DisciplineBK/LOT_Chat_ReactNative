@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "LOT_Chat_ReactNative",
+    "slug": "LOT_Chat_ReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "LOT_Chat_ReactNative"
+}
